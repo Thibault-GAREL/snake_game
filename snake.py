@@ -459,5 +459,4 @@ RED = (255, 0, 0)
 BLUE = (0, 0, 244)
 
 
-# for i in range(5):
 game_loop(rect_width, rect_height, display)
