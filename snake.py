@@ -1,6 +1,4 @@
 import pygame
-import sys
-import time
 import random
 from dataclasses import dataclass
 
