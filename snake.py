@@ -3,7 +3,7 @@ import random
 from dataclasses import dataclass
 
 show = True
-player = False
+player = True
 
 info = False
 
