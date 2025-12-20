@@ -6,6 +6,11 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)  
 ![Contributions](https://img.shields.io/badge/contributions-welcome-orange.svg)  
 
+<p align="center">
+  <img src="img/Snake-game.gif" alt="Snake game exemple">
+</p>
+
+
 ---
 
 ## 📝 Project Description 
@@ -29,13 +34,6 @@ These metrics are useful for **training AI agents** later on, such as [Snake AI 
   🤖 Option to toggle **player mode** or **random agent mode**  
 
   🖼️ Optional checkerboard display for debugging  
-
----
-
-## 🎮 Example Screenshots
-Here’s what the Snake game looks like:
-
-![Snake Example](img/example.png)
 
 ---
 
