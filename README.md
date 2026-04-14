@@ -18,7 +18,10 @@ This project is a **classic Snake game** built with Pygame.
 You can play manually, or let the snake move automatically with random actions.  
 
 The game also provides detailed **distance calculations** to food and walls (in all 8 directions).  
-These metrics are useful for **training AI agents** later on, such as [Snake AI - GA](https://github.com/Thibault-GAREL/AI_snake_genetic_version) and [Snake AI - DQL](https://github.com/Thibault-GAREL/AI_snake_DQN_version).  
+These metrics are useful for **training AI agents**, and this codebase was used as the environment for multiple **Reinforcement Learning** projects:
+[Snake AI - DT](https://github.com/Thibault-GAREL/AI_snake_decision_tree_version), [Snake AI - GA](https://github.com/Thibault-GAREL/AI_snake_genetic_version), [Snake AI - DQL](https://github.com/Thibault-GAREL/AI_snake_DQN_version) and [Snake AI - PPO](https://github.com/Thibault-GAREL/AI_snake_PPO_version).  
+
+A complete **XAI (Explainable AI) report** was written across these projects, analyzing and explaining the decision-making of each agent. 📄
 
 ---
 
